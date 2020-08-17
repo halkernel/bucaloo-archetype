@@ -1,5 +1,5 @@
 # bucaloo-archetype
-Custom maven archetype for making project creation using spring + spock easy.
+Custom maven archetype for project creation using spring + spock.
 You can find the dependencies inside the [pom.xml](https://github.com/halkernel/bucaloo-archetype/blob/master/pom.xml):
 
 > spring-boot-starter-web
