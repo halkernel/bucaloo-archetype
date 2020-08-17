@@ -17,7 +17,7 @@ You can find the dependencies inside the [pom.xml](https://github.com/halkernel/
 ## Installing
 ```shell
 mvn archetype:create-from-project
-mvn /target/generated-sources/archetype
+cd /target/generated-sources/archetype
 mvn clean install
 ```
 
